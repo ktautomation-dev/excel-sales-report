@@ -1,49 +1,44 @@
 # 📊 Excel Sales Report Automation Tool
 
-An Excel VBA tool that automatically generates sales summaries by employee and product with one click.
+Excel VBAを使用して作成した、売上集計を自動化するツールです。
+
+ボタンを1回押すだけで担当者別・商品別の売上を集計し、グラフまで自動で作成します。
 
 ---
 
-## ✨ Features
+# ✨ 主な機能
 
-- 📈 Sales summary by employee
-- 📦 Sales summary by product
-- 💰 Automatic total sales calculation
-- 📊 Automatic chart generation
-- 🖱 One-click execution
+- 担当者別売上集計
+- 商品別売上集計
+- 売上金額自動計算
+- 合計金額表示
+- グラフ自動生成
+- 集計日時表示
+- 入力チェック
+- エラー処理
 
 ---
 
-## 🛠 Technologies
+# 🛠 使用技術
 
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
 
 ---
 
-## 📷 Screenshots
+# 📷 スクリーンショット
 
-### Sales Data
-
-*(Coming Soon)*
-
-### Employee Summary
-
-*(Coming Soon)*
-
-### Product Summary
-
-*(Coming Soon)*
+（後で追加します）
 
 ---
 
-## 🚀 Future Improvements
+# 🚀 今後追加予定
 
-- Monthly reports
-- PDF export
-- Automatic printing
-- Error checking
-- Dashboard
+- PDF出力
+- 印刷レイアウト
+- ダッシュボード
+- 月別集計
+- CSV取込
 
 ---
 
