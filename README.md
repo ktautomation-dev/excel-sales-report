@@ -42,4 +42,18 @@ Excel VBAを使用して作成した、売上集計を自動化するツール�
 
 ---
 
+## 📷 スクリーンショット
+
+### 売上データ
+
+![売上データ](images/sales-data.png)
+
+### 担当者別売上
+
+![担当者別売上](images/employee-summary.png)
+
+### 商品別売上
+
+![商品別売上](images/product-summary.png)
+
 Created by **KT Automation**
