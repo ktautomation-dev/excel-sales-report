@@ -51,6 +51,6 @@ Excel VBAを使用して作成した、売上集計を自動化するツール�
 
 ---
 
-
+Complete version 1.0
 
 Created by **KT Automation**
